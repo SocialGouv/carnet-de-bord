@@ -33,6 +33,7 @@ Il existe 2 déploiement dans le jeu de données de test qui sert à peupler la 
 | username | email |  onboarding |
 | --- | --- | --- | --- |
 | giulia.diaby | giulia.diaby@cd93.fr | non |
+| cyane@cd26.fr | woirnesse@cd26.fr |
 
 ## Compte d'accompagnant (role: professional)
 | username | email |  structure | onboarding |
