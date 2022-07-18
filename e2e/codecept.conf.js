@@ -16,6 +16,7 @@ exports.config = {
 		},
 		Playwright: {
 			browser: 'chromium',
+			locale: 'fr-FR',
 			show: process.env.CODECEPT_UI ? true : false,
 			url: process.env.CODECEPT_BASEURL || 'http://localhost:3000',
 		},
